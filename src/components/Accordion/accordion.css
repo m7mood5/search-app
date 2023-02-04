@@ -1,0 +1,12 @@
+.accordion-item {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.accordion-body {
+    background-color: #ffffff;
+}
+
+.accordion-body-item {
+    padding: 10px 20px;
+}

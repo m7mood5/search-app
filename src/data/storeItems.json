@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "black Shoes",
+        "image": "/imgs/black.jpg",
+        "price": "1500EGP",
+        "disc": "Active is one of the most proprietary brands in the sports fields."
+    },
+    {
+        "id": 2,
+        "title": "white Shoes",
+        "image": "/imgs/white.jpg",
+        "price": "300EGP",
+        "disc": "Active is one of the most proprietary brands in the sports fields. "
+    },
+    {
+        "id": 3,
+        "title": "brown Shoes",
+        "image": "/imgs/brown.jpg",
+        "price": "150EGP",
+        "disc": "Active is one of the most proprietary brands in the sports fields. "
+    },
+    {
+        "id": 4,
+        "title": "sweet shirt",
+        "image": "/imgs/sw-shirt.jpg",
+        "price": "950EGP",
+        "disc": "American Eagle is one of the most proprietary brands in the sports fields. "
+    },
+    {
+        "id": 5,
+        "title": "Red shoes",
+        "image": "/imgs/red.jpg",
+        "price": "350EGP",
+        "disc": "Active is one of the most proprietary brands in the sports fields. "
+    },
+    {
+        "id": 6,
+        "title": "brown Shoes",
+        "image": "/imgs/brown.jpg",
+        "price": "150EGP",
+        "disc": "Active is one of the most proprietary brands in the sports fields. "
+    }
+]
